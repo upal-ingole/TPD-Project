@@ -18,14 +18,14 @@ export default function Home() {
   return (
     <div>
       <div className="flex flex-col gap-6 p-28 px-3 max-w-6xl mx-auto ">
-        <h1 className="text-xl font-bold lg:text-4xl">Welcome to PublishHub</h1>
+        <h1 className="text-xl font-bold lg:text-4xl">Welcome to UKIHub</h1>
         <p className="text-gray-400 text-xs sm:text-sm">
-          Welcome to PublishHub, your go-to platform for content media and
+          Welcome to UKIHub, your go-to platform for content media and
           independent writing! Here, you can read, write, and share news
           articles, explore diverse perspectives, and engage with a vibrant
           community. Whether you want to post your own articles, summarize
           content, translate pieces into different languages, or convert them to
-          audio, PublishHub offers all the tools you need to stay informed and
+          audio, UKIHub offers all the tools you need to stay informed and
           connected.
         </p>
         <div className="flex gap-4 mt-6">

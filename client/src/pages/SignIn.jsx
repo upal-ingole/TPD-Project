@@ -49,12 +49,12 @@ export default function SignIn() {
         <div className="flex-1">
           <Link to="/" className="font-bold dark:text-white text-4xl">
             <span className="px-2 py-1 bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 rounded-lg text-white">
-              Publish
+              UKI
             </span>
             Hub
           </Link>
           <div className="mt-5">
-            <h1 className="text-xl">Welcome To PublishHub.</h1>
+            <h1 className="text-xl">Welcome To UKIHub.</h1>
             <p className="text-sm mt-2">
               You can sign in with your email and password or with Google.
             </p>
